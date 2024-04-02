@@ -34,6 +34,10 @@
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
 </div>
 
+<div align="left">
+    <h3>Me in social media:</h3>
+</div>
+
 <h3 align="left">Statistics:</h3>
 
 <div align="center">
