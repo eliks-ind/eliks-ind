@@ -1,10 +1,8 @@
-<br clear="both">
-
 <h1 align="center">Hello there 👋</h1>
 
 <div align="left">
     <h3>About</h3>
-    <p>I am a beginner fronted developer. My route in IT started in 2020. I have studied at STEP IT Academy for 3 years and recently I have graduated it. I got knowledge about different spheres but the most favourite ones were Web Development and Game Development</p>
+    <p>I am a beginner fronted developer. My route in IT started in 2020. I have studied at STEP IT Academy for 3 years and recently I have graduated it. I got knowledge about different spheres but the most favourite ones were Web Development, Game Development and 3D Modelling. I got Junior knowledge of these stuff but I continued learning it by myself. I also met with ReactJS and used it in some of my projects.</p>
 </div>
 
 <p align="center">
