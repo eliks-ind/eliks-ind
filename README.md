@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋</h1>
+<img src="hi.gif"> Hello there!
 
 <div align="left">
     <h3>About</h3>
