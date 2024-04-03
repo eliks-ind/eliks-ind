@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./assets/hi.gif">
+  <img src="./assets/hi.gif" width="30px">
 Hello there!</h1>
 
 <div align="left">
