@@ -61,6 +61,8 @@ Hello there!</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=eliks-ind&show_icons=true" />
 </picture>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind&layout=compact)
+
 </div>
 
 <!-------
