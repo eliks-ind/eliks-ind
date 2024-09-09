@@ -61,7 +61,17 @@ Hello there!</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=eliks-ind&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind&layout=compact)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind&layout=compact" />
+</picture>
 
 </div>
 
