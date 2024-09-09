@@ -42,7 +42,7 @@ Hello there!</h1>
     [<img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />](https://discord.gg/rnGJSUhGpT)
     [<img src="assets/telegram.png" height="40" alt="telegram logo" />](https://t.me/eliks_ind)
     [<img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />](https://www.instagram.com/eliks_ind/)
-    [<img src="assets/steam.svg" height="40" alt="steam logo" />](https://steamcommunity.com/id/eliks_ind/)
+    <a href="https://steamcommunity.com/id/eliks_ind/"><img src="assets/steam.svg" height="40" alt="steam logo" /></a>
 </div>
 
 <h3 align="left">Statistics:</h3>
