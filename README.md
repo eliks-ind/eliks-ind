@@ -74,8 +74,7 @@ Hello there!</h1>
 </picture>
 
 
-[![Eliks' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eliks_ind)](https://github.com/anuraghazra/github-readme-stats)
-
+![Eliks' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eliks_ind)
 </div>
 
 <!-------
