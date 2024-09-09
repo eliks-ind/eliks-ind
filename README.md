@@ -82,7 +82,7 @@ Hello there!</h1>
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=eliks_ind"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eliks_ind" />
 </picture>
 
 </div>
