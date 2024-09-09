@@ -39,11 +39,24 @@ Hello there!</h1>
 
 <div align="left">
     <h3>Me in social media:</h3>
+    [<img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />](https://discord.gg/rnGJSUhGpT)
+    [<img src="assets/telegram.png" height="40" alt="telegram logo" />](https://t.me/eliks_ind)
+    [<img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />](https://www.instagram.com/eliks_ind/)
+    [<img src="assets/steam.svg" height="40" alt="steam logo" />](https://steamcommunity.com/id/eliks_ind/)
 </div>
 
 <h3 align="left">Statistics:</h3>
-
-<div align="center">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=eliks-ind&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=eliks-ind&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=eliks-ind&show_icons=true" />
+</picture>
 
 </div>
 
