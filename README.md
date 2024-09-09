@@ -39,9 +39,9 @@ Hello there!</h1>
 
 <div align="left">
     <h3>Me in social media:</h3>
-    [<img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />](https://discord.gg/rnGJSUhGpT)
-    [<img src="assets/telegram.png" height="40" alt="telegram logo" />](https://t.me/eliks_ind)
-    [<img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />](https://www.instagram.com/eliks_ind/)
+    <a href="https://t.me/eliks_ind"><img src="assets/telegram.png" height="40" alt="telegram logo" /></a>
+    <a href="https://discord.gg/rnGJSUhGpT"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  /></a>
+    <a href="https://www.instagram.com/eliks_ind/"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  /></a>
     <a href="https://steamcommunity.com/id/eliks_ind/"><img src="assets/steam.svg" height="40" alt="steam logo" /></a>
 </div>
 
