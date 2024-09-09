@@ -42,9 +42,11 @@ Hello there!</h1>
 </div>
 
 <h3 align="left">Statistics:</h3>
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=eliks-ind&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/eliks-ind/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=eliks-ind&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/eliks-ind/github-readme-stats#gh-light-mode-only)
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=eliks-ind&show_icons=true&theme=dark#gh-dark-mode-only" />
+<img src="https://github-readme-stats.vercel.app/api?username=eliks-ind&show_icons=true&theme=default#gh-light-mode-only" />
+<!------[![Anurag's GitHub stats-Dark]()](https://github.com/eliks-ind/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light]()](https://github.com/eliks-ind/github-readme-stats#gh-light-mode-only)
+<div align="center">---->
 
 </div>
 
