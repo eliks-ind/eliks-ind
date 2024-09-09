@@ -63,14 +63,14 @@ Hello there!</h1>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind&layout=compact&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind&layout=donut&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind&layout=donut"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind&layout=donut" />
 </picture>
 
 <picture>
