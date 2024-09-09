@@ -42,7 +42,7 @@ Hello there!</h1>
 </div>
 
 <h3 align="left">Statistics:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=eliks-ind&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=eliks-ind&show_icons=true&theme=transparent" />
 <div align="center">
 
 </div>
