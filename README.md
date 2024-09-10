@@ -15,44 +15,44 @@ Hello, I'm Eldar!👋🏻
 <div align="left">
     <h3>Languages and Tools:</h3>
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="wordpress logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="wordpress logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="blender logo"  />
-  <img width="10" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="blender logo"  />
 </div>
 
 <div align="left">
     <h3>Me in social media:</h3>
     <a href="https://t.me/eliks_ind"><img src="assets/telegram.png" height="40" alt="telegram logo" /></a>
-    <img width="10" />
+    <img width="5" />
     <a href="https://discord.gg/rnGJSUhGpT"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  /></a>
-    <img width="10" />
+    <img width="5" />
     <a href="https://www.instagram.com/eliks_ind/"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  /></a>
-    <img width="10" />
+    <img width="5" />
     <a href="https://steamcommunity.com/id/eliks_ind/"><img src="assets/steam.svg" height="40" alt="steam logo" /></a>
 </div>
 
