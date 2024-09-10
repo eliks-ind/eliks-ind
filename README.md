@@ -1,15 +1,12 @@
-# Hello, I'm Eldar!👋🏻
+# Hello, I'm Eldar! Beginner Front-End Developer!👋🏻
 
-## About
-<div align="left">
-    <p>I am a beginner front-end developer. My route in IT started in 2020. I have studied at STEP IT Academy for 3 years and recently I graduated. I gained knowledge about different spheres but the most favorite ones were Web Development, Game Development, and 3D Modelling. I got Junior knowledge of these stuff but I continued learning them by myself. In 2023 I started learning C++ for Olympiad programming. I participated in the Republican Olympiad and reached the semi-finals, so I have experience with solving problems in C++.</p>
-    <br>
-    <p>- Graduated from STEP IT Academy.</p>
-    <p>- Reached semi-finals in the Republican Olympiad.</p>
-</div>
+### About
+I am a beginner front-end developer. My route in IT started in 2020. I have studied at STEP IT Academy for 3 years and recently I graduated. I gained knowledge about different spheres but the most favorite ones were Web Development, Game Development, and 3D Modelling. I got Junior knowledge of these stuff but I continued learning them by myself. In 2023 I started learning C++ for Olympiad programming. I participated in the Republican Olympiad and reached the semi-finals, so I have experience with solving problems in C++.
 
-<div align="left">
-    <h3>Languages and Tools:</h3>
+- Graduated from STEP IT Academy.
+- Reached semi-finals in the Republican Olympiad.
+
+### Languages and Tools:
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -38,13 +35,14 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="blender logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="blender logo"  />
-</div>
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+
+### Me in social media:
 
 <div align="left">
-    <h3>Me in social media:</h3>
+    <h3></h3>
     <a href="https://t.me/eliks_ind"><img src="assets/telegram.png" height="40" alt="telegram logo" /></a>
     <img width="5" />
     <a href="https://discord.gg/rnGJSUhGpT"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  /></a>
@@ -54,7 +52,7 @@
     <a href="https://steamcommunity.com/id/eliks_ind/"><img src="assets/steam.svg" height="40" alt="steam logo" /></a>
 </div>
 
-<h3 align="left">Statistics:</h3>
+### Statistics:
 
 <picture>
   <source
