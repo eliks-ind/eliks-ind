@@ -28,6 +28,8 @@ Hello, I'm Eldar!👋🏻
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="wordpress logo"  />
   <img width="5" />
+  <img src="./assets/firebase.svg" height="40" alt="firebase logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
