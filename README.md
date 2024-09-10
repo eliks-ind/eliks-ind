@@ -1,6 +1,8 @@
 <h1 align="center">
-  <img src="./assets/hi.gif" width="30px">
-Hello there!</h1>
+  
+Hello, I'm Eldar!
+<img src="./assets/hi.gif" width="30px">
+</h1>
 
 <div align="left">
     <h3>About</h3>
@@ -9,10 +11,6 @@ Hello there!</h1>
     <p>- Graduated from STEP IT Academy.</p>
     <p>- Reached semi-finals in the Republican Olympiad.</p>
 </div>
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 <div align="left">
     <h3>Languages and Tools:</h3>
@@ -49,28 +47,17 @@ Hello there!</h1>
 </div>
 
 <h3 align="left">Statistics:</h3>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=eliks-ind&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=eliks-ind&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=eliks-ind&show_icons=true" />
-</picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind&layout=donut&theme=dark"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=eliks-ind&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind&layout=donut"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=eliks-ind"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind&layout=donut" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eliks-ind" />
 </picture>
 
 <picture>
@@ -85,7 +72,35 @@ Hello there!</h1>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eliks_ind" />
 </picture>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=eliks-ind&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=eliks-ind&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=eliks-ind&show_icons=true" />
+</picture>
+
 </div>
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 <!-------
 <div align="center">
