@@ -7,6 +7,7 @@ I am a beginner front-end developer. My route in IT started in 2020. I have stud
 - Reached semi-finals in the Republican Olympiad.
 
 ### Languages and Tools:
+<div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -38,7 +39,7 @@ I am a beginner front-end developer. My route in IT started in 2020. I have stud
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-
+</div>
 ### Me in social media:
 
 <div align="left">
