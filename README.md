@@ -1,11 +1,7 @@
-<h1 align="center">
-  
-Hello, I'm Eldar!👋🏻
-<!--<img src="./assets/hi.gif" width="30px">-->
-</h1>
+# Hello, I'm Eldar!👋🏻
 
+## About
 <div align="left">
-    <h3>About</h3>
     <p>I am a beginner front-end developer. My route in IT started in 2020. I have studied at STEP IT Academy for 3 years and recently I graduated. I gained knowledge about different spheres but the most favorite ones were Web Development, Game Development, and 3D Modelling. I got Junior knowledge of these stuff but I continued learning them by myself. In 2023 I started learning C++ for Olympiad programming. I participated in the Republican Olympiad and reached the semi-finals, so I have experience with solving problems in C++.</p>
     <br>
     <p>- Graduated from STEP IT Academy.</p>
