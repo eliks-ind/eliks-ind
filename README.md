@@ -1,7 +1,7 @@
 <h1 align="center">
   
-Hello, I'm Eldar!
-<img src="./assets/hi.gif" width="30px">
+Hello, I'm Eldar!👋🏻
+<!--<img src="./assets/hi.gif" width="30px">-->
 </h1>
 
 <div align="left">
