@@ -40,8 +40,8 @@ I am a beginner front-end developer. My route in IT started in 2020. I have stud
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
-### Me in social media:
 
+### Me in social media:
 <div align="left">
     <h3></h3>
     <a href="https://t.me/eliks_ind"><img src="assets/telegram.png" height="40" alt="telegram logo" /></a>
