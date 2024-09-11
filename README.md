@@ -103,6 +103,18 @@ I am a beginner front-end developer. My route in IT started in 2020. I have stud
   <img src="https://github-readme-stats.vercel.app/api?username=eliks-ind&show_icons=true" />
 </picture>
 
+<picture>
+  <source
+    srcset="https://github.r2v.ch/codewars?user=eliks-ind&name=true&top_languages=true&stroke=%23fff&hide_clan=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github.r2v.ch/codewars?user=eliks-ind&name=true&top_languages=true&stroke=%23fff&hide_clan=true&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github.r2v.ch/codewars?user=eliks-ind&name=true&top_languages=true&stroke=%23fff&hide_clan=true&theme=light" />
+</picture>
+
 </div>
 
 <p align="center">
