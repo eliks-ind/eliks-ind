@@ -18,7 +18,7 @@ I am a beginner front-end developer. My route in IT started in 2020. I have stud
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="wordpress logo"  />
   <img width="5" />
@@ -43,6 +43,8 @@ I am a beginner front-end developer. My route in IT started in 2020. I have stud
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo"  />
 </div>
 
 ### Me in social media:
