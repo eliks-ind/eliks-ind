@@ -1,12 +1,14 @@
 # Hello, I'm Eldar! Beginner Front-End Developer!👋🏻
 
 ### About
+
 I am a beginner front-end developer. My route in IT started in 2020. I have studied at STEP IT Academy for 3 years and recently I graduated. I gained knowledge about different spheres but the most favorite ones were Web Development, Game Development, and 3D Modelling. I got Junior knowledge of these stuff but I continued learning them by myself. In 2023 I started learning C++ for Olympiad programming. I participated in the Republican Olympiad and reached the semi-finals, so I have experience with solving problems in C++.
 
 - Graduated from STEP IT Academy.
 - Reached semi-finals in the Republican Olympiad.
 
 ### Languages and Tools:
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="5" />
@@ -15,6 +17,8 @@ I am a beginner front-end developer. My route in IT started in 2020. I have stud
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="javascript logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="wordpress logo"  />
   <img width="5" />
@@ -42,6 +46,7 @@ I am a beginner front-end developer. My route in IT started in 2020. I have stud
 </div>
 
 ### Me in social media:
+
 <div align="left">
     <h3></h3>
     <a href="https://t.me/eliks_ind"><img src="assets/telegram.png" height="40" alt="telegram logo" /></a>
