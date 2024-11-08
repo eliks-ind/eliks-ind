@@ -98,7 +98,7 @@ I am a beginner front-end developer. My route in IT started in 2020. I have stud
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind" />
 </picture>
 
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=eliks-ind&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -108,7 +108,7 @@ I am a beginner front-end developer. My route in IT started in 2020. I have stud
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=eliks-ind&show_icons=true" />
-</picture>
+</picture> -->
 
 <picture>
   <source
