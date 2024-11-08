@@ -62,7 +62,7 @@ I am a beginner front-end developer. My route in IT started in 2020. I have stud
 
 ### Statistics:
 
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-streak-stats.herokuapp.com?user=eliks-ind&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -72,7 +72,7 @@ I am a beginner front-end developer. My route in IT started in 2020. I have stud
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=eliks-ind" />
-</picture>
+</picture> -->
 
 <picture>
   <source
