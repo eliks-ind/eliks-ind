@@ -86,7 +86,7 @@ I am a beginner front-end developer. My route in IT started in 2020. I have stud
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eliks_ind" />
 </picture>
 
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -96,7 +96,7 @@ I am a beginner front-end developer. My route in IT started in 2020. I have stud
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliks-ind" />
-</picture>
+</picture> -->
 
 <!-- <picture>
   <source
@@ -124,9 +124,9 @@ I am a beginner front-end developer. My route in IT started in 2020. I have stud
 
 </div>
 
-<p align="center">
+<!-- <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+</p> -->
 
 <!-------
 <div align="center">
