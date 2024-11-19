@@ -45,6 +45,8 @@ I am a beginner front-end developer. My route in IT started in 2020. I have stud
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="arch logo"  />
 </div>
 
 ### Me in social media:
@@ -133,3 +135,5 @@ I am a beginner front-end developer. My route in IT started in 2020. I have stud
   <img src="https://visitor-badge.laobi.icu/badge?page_id=eliks-ind.eliks-ind&"  />
 </div>
 ----->
+
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&color=68D6B9B3&multiline=true&random=true&width=435&lines=currently+working+on+nothing+)](https://git.io/typing-svg) -->
